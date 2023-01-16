@@ -1,0 +1,35 @@
+﻿div.img {
+    margin: 8px;
+    padding: 6px;
+    border: 1px solid #0000ff;
+    height: 200px;
+    width: 200px;
+    float: left;
+    text-align: center;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    height: 120px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border:1px solid #0000ff;
+}
+
+div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 150px;
+    margin: 25px;
+}
+
+div.Grid{
+    Anchor: Left
+AutoSizeColumn: Fill
+Dock: Fill
+}
+
+

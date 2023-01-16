@@ -1,0 +1,73 @@
+﻿element.style {
+  margin-left: 5px;
+}
+.result_tbl_brd {
+  border-top-width: thin;
+  border-right-width: thin;
+  border-bottom-width: thin;
+  border-left-width: thin;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: #7cace4;
+  border-right-color: #7cace4;
+  border-bottom-color: #7cace4;
+  border-left-color: #7cace4;
+  display: table;
+}
+table[Attributes Style] {
+  width: 98%;
+  -webkit-margin-start: auto;
+  -webkit-margin-end: auto;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-spacing: 0px;
+}
+user agent stylesheettable {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+}
+Inherited from 
+user agent stylesheettable {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+}
+Inherited from 
+.content_tex {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  text-align: justify;
+  display: block;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+Inherited from 
+user agent stylesheettable {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+}
+Inherited from 
+user agent stylesheettable {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+}
+Inherited from 
+user agent stylesheettable {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+}
